@@ -1,0 +1,40 @@
+﻿  win32_platform.cpp
+I:\Visual Studio\GAME DEV\Project1\Project1\renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(48,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(49,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(52,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(52,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(110,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(115,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(182,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(183,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(184,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(184,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+  Generating code
+  1 of 8 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> I:\Visual Studio\GAME DEV\Project1\Release\Project1.exe

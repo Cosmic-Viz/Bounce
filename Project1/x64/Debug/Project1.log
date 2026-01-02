@@ -1,0 +1,23 @@
+﻿  win32_platform.cpp
+I:\Visual Studio\GAME DEV\Project1\Project1\renderer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(45,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(46,13): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(49,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(49,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(107,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+I:\Visual Studio\GAME DEV\Project1\Project1\game.cpp(112,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+  Project1.vcxproj -> I:\Visual Studio\GAME DEV\Project1\x64\Debug\Project1.exe

@@ -1,0 +1,21 @@
+struct BUTTON_STATES {
+	bool is_down;
+	bool changed;
+};
+
+enum {
+	BUTTON_UP,
+	BUTTON_DOWN, 
+	BUTTON_W, 
+	BUTTON_S,
+	BUTTON_LEFT,
+	BUTTON_RIGHT,
+	BUTTON_ENTER,
+	BUTTON_ESCAPE,
+
+	BUTTON_COUNT,
+};
+
+struct Input {
+	BUTTON_STATES buttons[BUTTON_COUNT];
+};
